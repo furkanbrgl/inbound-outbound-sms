@@ -8,7 +8,10 @@ class InboundOutboundSmsApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//test
+		System.out.println("ss");
+		System.out.println("ss");
+		System.out.println("ss");
+		System.out.println("ss");
 	}
 
 }
